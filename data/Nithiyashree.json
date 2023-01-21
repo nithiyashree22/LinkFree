@@ -1,0 +1,19 @@
+{
+  "name": "Nithiyashree",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "A CS grad exploring new technolgies",
+  "avatar": "https://github.com/nithiyashree22.png"
+  "links": [
+    {
+      "name": " Twitter",
+      "url": "https://twitter.com/Nithiyashree_S",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": " Linkedin",
+      "url": "https://www.linkedin.com/in/nithiyashree-s-04a345194/",
+      "icon": "FaLinkedin"
+    }
+  ]
+}
